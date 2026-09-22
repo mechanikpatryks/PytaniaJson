@@ -1,26 +1,22 @@
-[
-  {
-    "Pytania": {
+{
+  "pytania": [
+    {
       "tresc": "Stolica Polski to:",
       "odp_a": "Kraków",
       "odp_b": "Warszawa",
       "odp_c": "Gdańsk",
       "odp_d": "Wrocław",
       "poprawna": 2
-    }
-  },
-  {
-    "Pytania": {
+    },
+    {
       "tresc": "Ile dni ma rok przestępny?",
       "odp_a": "365",
       "odp_b": "366",
       "odp_c": "364",
       "odp_d": "367",
       "poprawna": 2
-    }
-  },
-  {
-    "Pytania": {
+    },
+    {
       "tresc": "Która planeta jest najbliżej Słońca?",
       "odp_a": "Wenus",
       "odp_b": "Ziemia",
@@ -28,5 +24,5 @@
       "odp_d": "Mars",
       "poprawna": 3
     }
-  }
-]
+  ]
+}
